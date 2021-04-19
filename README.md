@@ -1,2 +1,12 @@
-# chozetu-excel-vba
-超絶Excel VBAのサンプルプログラム
+# 超絶Excel VBAのサンプルプログラム
+
+超絶Excel VBAのサンプルプログラムです。
+「えっ Excelでこんなことができるの？」
+
+ - 正規表現
+ - UNIXツール(grep, sed, awk ...)
+ - 機械学習
+ - 形態素解析
+ 
+などなど、Excel VBAとさまざまなツールを組み合わせる方法を紹介します。
+
